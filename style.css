@@ -2,11 +2,10 @@ body {
     background-color: blue;
 }
 
-/*for top margin on x large device
+/*for top margin on x large device*/
 .margin-mid {
     margin-top: 10rem;
 }
-*/
 
 /*for paragraph text*/
 .text-small {
